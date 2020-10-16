@@ -9,7 +9,7 @@ VB源代码不可公布。请wiki留邮箱，注明代码编号：VB膜拜
 > 4. (ง •̀_•́)ง
 
 ## 历史版本：
-<a href="mobai_1.0.0.exe" target="_blank">1.0.0（最新）</a>
+<a href="mobai_1.0.0.exe" target="_blank">1.0.0（最新）</a> 
 Beta版（已下架）
 
 
