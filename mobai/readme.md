@@ -1,2 +1,16 @@
-# <a href="finish.exe" target="_blank">下载小潘膜拜系统（VB制作）（EXE）</a>
+# <a href="mobai_1.0.0.exe" target="_blank">下载小潘膜拜系统（VB制作）（.EXE）(1.0.0)</a>
 VB源代码不可公布。请wiki留邮箱，注明代码编号：VB膜拜
+
+## 特性：
+
+> 1. 膜拜你的偶像潘悦洋!
+> 2. 膜到1000次以上有惊喜（吓）!
+> 3. 经典VB风格（就是VB做的好不好）
+> 4. (ง •̀_•́)ง
+
+## 历史版本：
+<a href="mobai_1.0.0.exe" target="_blank">1.0.0（最新）</a>
+Beta版（已下架）
+
+
+
