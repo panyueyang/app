@@ -1,5 +1,5 @@
 # <a href="mobai_1.0.2.exe" target="_blank">下载小潘膜拜系统（VB制作）（.EXE）(1.0.2)</a>
-VB源代码不可公布。请wiki留邮箱，注明代码编号：VB膜拜
+VB源代码密码不可公布。请qq私聊3051247810
 
 ## 特性：
 
@@ -12,6 +12,9 @@ VB源代码不可公布。请wiki留邮箱，注明代码编号：VB膜拜
 <a href="mobai_1.0.2.exe" target="_blank">1.0.2(最新版)</a> <br>
 <a href="mobai_1.0.0.exe" target="_blank">1.0.0</a> <br>
 Beta版（已下架）
+
+## 源代码
+<a href="VB膜拜.zip">VB压缩包（密码**********）</a>
 
 
 
