@@ -1,4 +1,4 @@
-# <a href="mobai_1.0.0.exe" target="_blank">下载小潘膜拜系统（VB制作）（.EXE）(1.0.0)</a>
+# <a href="mobai_1.0.2.exe" target="_blank">下载小潘膜拜系统（VB制作）（.EXE）(1.0.2)</a>
 VB源代码不可公布。请wiki留邮箱，注明代码编号：VB膜拜
 
 ## 特性：
@@ -9,7 +9,8 @@ VB源代码不可公布。请wiki留邮箱，注明代码编号：VB膜拜
 > 4. (ง •̀_•́)ง
 
 ## 历史版本：
-<a href="mobai_1.0.0.exe" target="_blank">1.0.0（最新）</a> <br>
+<a href="mobai_1.0.2.exe" target="_blank">1.0.2(最新版)</a> <br>
+<a href="mobai_1.0.0.exe" target="_blank">1.0.0</a> <br>
 Beta版（已下架）
 
 
