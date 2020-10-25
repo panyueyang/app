@@ -1,4 +1,5 @@
-# <a href="mobai_1.0.2.exe" target="_blank">下载小潘膜拜系统（VB制作）（.EXE）(1.0.2)</a>
+# <a href="mobai_1.0.2.exe" target="_blank">下载小潘膜拜系统电脑离线（VB制作）（.EXE）(1.0.2)</a>
+# <a href="mobai2.0正式版.apk" target="_blank">下载小潘膜拜系统手机线上版（APPINVENTOR制作）（.apk）(2.0.0)</a>
 
 ## 代码事项
 > 1. VB源代码密码不可公布。请qq私聊3051247810
