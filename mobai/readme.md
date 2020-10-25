@@ -22,7 +22,7 @@ Beta版（已下架）
 1.0Beta已下架
 ## 源代码
 <a href="VB膜拜.zip">VB压缩包1.0.2（密码`**********`）</a>
-<a href="mb.aia">APPINVENTOR</a>
+<a href="mobai.aia">APPINVENTOR</a>
 
 
 
